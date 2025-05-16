@@ -11,8 +11,8 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [x] [[Tipos de Redes]]
 	- [x] [[Dispositivos de red]]
 	- [x] [[Protocolo]]
-		- [ ] [[Tipos de Protocolo]]
-	- [ ] [[Hardware de Redes]].
+		- [x] [[Tipos de Protocolo]]
+	- [ ] Hardware de Redes.
 	- [ ] Medios de comunicación
 	- [ ] Historia de Internet, Servicios y Aplicaciones,
 	- [ ] Modelo de Capas,
