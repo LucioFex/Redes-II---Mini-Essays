@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funcionamiento de DHCP.md",
+                "file": "DHCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funcionamiento de DHCP"
+              "title": "DHCP"
+            }
+          },
+          {
+            "id": "8ef6003a78e9b7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formato del mensaje DHCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formato del mensaje DHCP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,16 +203,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "861957a1d4c657e2",
+  "active": "8ef6003a78e9b7bc",
   "lastOpenFiles": [
+    "Pasted image 20250516180812.png",
+    "Formato del mensaje DHCP.md",
+    "DHCP.md",
+    "Funcionamiento de DHCP.md",
+    "README.md",
+    "Pasted image 20250516133840.png",
     "Oferta de DHCP.md",
     "Máscara de la subred.md",
     "Dirección IP.md",
     "Dirección MAC.md",
-    "Funcionamiento de DHCP.md",
     "Confirmación DHCP.md",
-    "DHCP.md",
-    "README.md",
     "Solicitud DHCP.md",
     "BOOTP.md",
     "Mini_Essays/IP.md",
@@ -217,8 +235,6 @@
     "Mini_Essays/TCP.md",
     "Mini_Essays/Router.md",
     "Mini_Essays/Redes II - Primer Parcial.pdf",
-    "Mini_Essays/Red.md",
-    "Mini_Essays/Protocolo.md",
     "Mini_Essays/Programa Redes II 2025.pdf",
     "Mini_Essays/Pasted image 20250515230711.png",
     "Mini_Essays/Pasted image 20250515230643.png",
@@ -228,7 +244,6 @@
     "Mini_Essays/Pasted image 20250515223030.png",
     "Mini_Essays/Pasted image 20250515223015.png",
     "Mini_Essays/Pasted image 20250515222955.png",
-    "Mini_Essays/Pasted image 20250515222944.png",
     "Mini_Essays/Cronograma Redes II 2025.pdf",
     "Mini_Essays/Cronograma Redes II 2025 1.pdf",
     "Mini_Essays",

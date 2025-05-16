@@ -1,6 +1,7 @@
 # Redes II - Mini Essays
 Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. Este repositorio puede descargarse y consumirse eficientemente usándolo como Vault en **Obsidian**.
 ![Screenshot_1](https://github.com/user-attachments/assets/c089bec2-378b-4e6c-9a33-ee6d77f6fe0e)
+
 ## Temas por unidad
 
 **Unidad 1:**
@@ -84,7 +85,8 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 **Unidad 9:**
 - [ ] Tecnologías inalámbricas.
 - [ ] Aspectos físicos básicos.
-- [ ] Funcionamiento de una red Wifi, características.
+- [ ] Funcionamiento de una red Wifi,
+- [ ] características.
 - [ ] Principales aplicaciones.
 **Unidad 10:**
 - [ ] Aplicaciones Críticas:

@@ -25,3 +25,5 @@ La concesión de una dirección IP tiene cierta validez.
 	- Contiene configuraciones avanzadas (reservas de direcciones).
 ### Detalle técnico de DHCP: [[Funcionamiento de DHCP]]
 
+### Formato del mensaje DHCP: [[Formato del mensaje DHCP]]
+
