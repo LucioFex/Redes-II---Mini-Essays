@@ -1,4 +1,4 @@
-El cliente elige un paquete y contacta al servidor que corresponda con **DHCPREQUEST**.
+El cliente [[DHCP]] elige un paquete y contacta al servidor que corresponda con **DHCPREQUEST**.
 
 Además, el resto de servidores también reciben este mensaje, así ya se quedan enterados de esta elección.
 

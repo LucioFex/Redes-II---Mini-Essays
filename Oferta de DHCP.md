@@ -1,4 +1,4 @@
-Todos los servidores que escuchan peticiones (requests) desde el puerto 67 responden a la solicitud del cliente con un paquete **DHCPOFFER**.
+Todos los servidores que escuchan peticiones (requests) desde el puerto 67 responden a la solicitud del cliente [[DHCP]] con un paquete **DHCPOFFER**.
 
 El paquete **DHCPOFFER** contiene:
 - Una dirección IP libre.

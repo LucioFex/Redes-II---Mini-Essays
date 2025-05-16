@@ -18,7 +18,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [ ] Modelo de Capas,
 - [ ] Estratificación.
 **Unidad 2:**
-- [ ] IP:
+- [x] [[IP]]:
 	- [ ] Funcionamiento de una red,
 	- [ ] Direcciones IP,
 	- [ ] Datagrama,
@@ -88,14 +88,14 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 - [ ] Principales aplicaciones.
 **Unidad 10:**
 - [ ] Aplicaciones Críticas:
-	- [ ] [[HTTP]],
+	- [x] [[HTTP]],
 	- [ ] FTP,
-	- [ ] [[DHCP]],
+	- [x] [[DHCP]],
 	- [ ] DNS,
 	- [ ] SSH,
 	- [ ] Telnet,
 	- [ ] SNMP,
-	- [ ] introducción al monitoreo de una red de datos.
+	- [ ] Introducción al monitoreo de una red de datos.
 - [ ] Aplicaciones en red.
 - [ ] APIs.
 - [ ] Configuración de aplicaciones con Python.
