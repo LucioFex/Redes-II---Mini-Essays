@@ -95,7 +95,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [ ] SSH,
 	- [ ] Telnet,
 	- [ ] SNMP,
-	- [ ] Introducción al monitoreo de una red de datos.
+	- [ ] introducción al monitoreo de una red de datos.
 - [ ] Aplicaciones en red.
 - [ ] APIs.
 - [ ] Configuración de aplicaciones con Python.
