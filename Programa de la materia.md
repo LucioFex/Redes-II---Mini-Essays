@@ -1,5 +1,3 @@
-![Screenshot_1](https://github.com/user-attachments/assets/c089bec2-378b-4e6c-9a33-ee6d77f6fe0e)
-
 **Unidad 1:**
 - [ ] Revisión: Repaso de concepto de Redes.
 	- [x] [[Estructura de una red]]
@@ -26,8 +24,9 @@
 **Unidad 3:**
 - [ ] Arquitectura y principios de la Capa 2 del Modelo OSI:
 	- [ ] Protocolo ethernet,
-	- [ ] switching,
-	- [ ] Spanning Tree y gestión de VLANs.
+	- [ ] Switching,
+	- [ ] Spanning Tree
+	- [ ] Gestión de VLANs.
 	- [ ] Laboratorio de VLANs.
 **Unidad 4:**
 - [ ] Arquitectura de Ruteo:
