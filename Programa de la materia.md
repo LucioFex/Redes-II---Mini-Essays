@@ -1,3 +1,5 @@
+![Screenshot_1](https://github.com/user-attachments/assets/c089bec2-378b-4e6c-9a33-ee6d77f6fe0e)
+
 **Unidad 1:**
 - [ ] Revisión: Repaso de concepto de Redes.
 	- [x] [[Estructura de una red]]
