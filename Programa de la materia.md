@@ -1,8 +1,8 @@
 **Unidad 1:**
-- Revisión:
-	- Repaso de concepto de Redes.
+- Revisión: Repaso de concepto de Redes.
 	- Tipos de Redes.
 	- Hardware de Redes.
+	- Medios de comunicación
 	- Historia de Internet, Servicios y Aplicaciones,
 	- Modelo de Capas,
 - Estratificación.
