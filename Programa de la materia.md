@@ -5,7 +5,8 @@
 		- [x] [[Mensaje]]
 	- [ ] [[Tipos de Redes]]
 	- [ ] [[Dispositivos de red]]
-	- [ ] Hardware de Redes.
+	- [ ] [[Protocolo]]
+	- [ ] [[Hardware de Redes]].
 	- [ ] Medios de comunicación
 	- [ ] Historia de Internet, Servicios y Aplicaciones,
 	- [ ] Modelo de Capas,
