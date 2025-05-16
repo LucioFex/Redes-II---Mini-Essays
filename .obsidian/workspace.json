@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "b4506a8c2aa19cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DHCP"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,9 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b977d8894b7cd455",
+  "active": "b4506a8c2aa19cfe",
   "lastOpenFiles": [
     "README.md",
+    "cliente-servidor.md",
+    "DHCP.md",
+    "UDP.md",
     "Mini_Essays/Dispositivos de red.md",
     "Mini_Essays/Apuntes complementarios.md",
     "Testing.md",
@@ -229,9 +247,6 @@
     "Hardware de Redes.md",
     "Ethernet.md",
     "IP.md",
-    "TCP.md",
-    "Programa y cronograma.md",
-    "Protocolo.md",
     "Cronograma Redes II 2025 1.pdf",
     "Cronograma Redes II 2025.pdf",
     "Redes II - Primer Parcial.pdf",
