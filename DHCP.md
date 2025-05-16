@@ -12,9 +12,6 @@ Permite el inicio de sistemas "sin disco". Usa ambientes sin cambios de frecuenc
 Dinámicamente, dentro de un pool de direcciones que el "administrador" configura.
 La concesión de una dirección IP tiene cierta validez.
 - Osea, DHCP hace una asignación de IP temporal.
-#### ¿Qué puertos usa?
-Usa los puertos [[UDP]] 67 y 68, y se basa en la relación cliente-servidor.
-- **Dato**: Lo mismo aplica para su sucesor [[BOOTP]]
 #### ¿Cuáles son las ventajas?
 - Evita que los usuarios tengan que configurar manualmente:
 	- Direcciones IP.
@@ -24,3 +21,5 @@ Usa los puertos [[UDP]] 67 y 68, y se basa en la relación cliente-servidor.
 - Administración centralizada.
 	- Control del espacio y uso de direcciones de una red.
 	- Contiene configuraciones avanzadas (reservas de direcciones).
+### Detalle técnico de DHCP: [[Funcionamiento de DHCP]]
+

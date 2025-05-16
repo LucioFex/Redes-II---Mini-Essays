@@ -1,0 +1,3 @@
+#### ¿Qué puertos usa?
+Usa los puertos [[UDP]] 67 y 68, y se basa en la relación cliente-servidor.
+- **Dato**: Lo mismo aplica para su sucesor [[BOOTP]]
