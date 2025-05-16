@@ -88,7 +88,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 - [ ] Principales aplicaciones.
 **Unidad 10:**
 - [ ] Aplicaciones Críticas:
-	- [ ] HTTP,
+	- [ ] [[HTTP]],
 	- [ ] FTP,
 	- [ ] [[DHCP]],
 	- [ ] DNS,
