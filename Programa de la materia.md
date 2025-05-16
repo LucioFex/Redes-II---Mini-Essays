@@ -1,5 +1,6 @@
 **Unidad 1:**
 - [ ] Revisión: Repaso de concepto de Redes.
+	- [ ] Estructura de una red
 	- [ ] Tipos de Redes.
 	- [ ] Hardware de Redes.
 	- [ ] Medios de comunicación

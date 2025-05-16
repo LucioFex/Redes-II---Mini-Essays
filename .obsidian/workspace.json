@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Programa de la materia"
             }
+          },
+          {
+            "id": "eef212b6610235f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estructura de una red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estructura de una red"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programa de la materia.md",
+                "file": "Estructura de una red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programa de la materia"
+              "title": "Backlinks for Estructura de una red"
             }
           },
           {
@@ -114,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programa de la materia.md",
+                "file": "Estructura de una red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Programa de la materia"
+              "title": "Outgoing links from Estructura de una red"
             }
           },
           {
@@ -189,11 +204,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1880b7a50226952a",
+  "active": "eef212b6610235f9",
   "lastOpenFiles": [
+    "Mensaje.md",
+    "Estructura de una red.md",
+    "Untitled.md",
+    "Red.md",
+    "Programa de la materia.md",
+    "Pasted image 20250515220533.png",
     "Apuntes complementarios.md",
     "Redes II - Primer Parcial.pdf",
-    "Programa de la materia.md",
     "README.md",
     "Cronograma de la materia.md",
     "Programa Redes II 2025.pdf",
@@ -221,7 +241,6 @@
     "Pasted image 20250429135805.png",
     "Pasted image 20250429135731.png",
     "Pasted image 20250429135658.png",
-    "Pasted image 20250429135638.png",
     "REII - Clase 6 - Lab 5 - Luciano Esteban.md",
     "REII - Clase 6 práctica.md",
     "REII - Clase 4 - Lab 3 - Luciano Esteban.md",
@@ -229,10 +248,7 @@
     "REII - Clase 5 práctica.md",
     "ECO - Clase 3 probablemente.md",
     "ECO - Clase 4.pdf",
-    "BD 1 - Clase 6.md",
-    "ECO - Clase 1.md",
     "Economía.pdf",
-    "ECO - Clases de años pasados.md",
     "Instructivo de Guardium Discover and Classify - Recomendación de templates.docx.pdf",
     "Lab 4- VoIP.pdf",
     "Redes II - Clase 5 - Apuntes.pdf",
