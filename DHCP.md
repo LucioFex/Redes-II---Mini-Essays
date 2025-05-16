@@ -1,5 +1,5 @@
-# Protocolo de configuración dinámica de host.
-### Dynamic Host Configuration Protocol
+## Protocolo de configuración dinámica de host
+#### Dynamic Host Configuration Protocol
 #### ¿Qué es?
 Es un protocolo de "*configuración dinámica de host*", es de [[cliente-servidor]].
 Este protocolo es el antecesor de [[BOOTP]].
