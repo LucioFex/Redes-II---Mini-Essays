@@ -127,7 +127,6 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 - [ ] Estado actual de las redes de IPv6.
 - [ ] Aspectos de seguridad a considerar
 
-
 ---
 # Adicional
 - [[Apuntes complementarios]]
