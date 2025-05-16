@@ -1,4 +1,4 @@
-Unidad 1:
+**Unidad 1:**
 - Revisión:
 	- Repaso de concepto de Redes.
 	- Tipos de Redes.
@@ -6,7 +6,7 @@ Unidad 1:
 	- Historia de Internet, Servicios y Aplicaciones,
 	- Modelo de Capas,
 - Estratificación.
-Unidad 2:
+**Unidad 2:**
 - IP:
 	- Funcionamiento de una red,
 	- Direcciones IP,
@@ -15,13 +15,13 @@ Unidad 2:
 	- Prácticas de diseño y creación de redes mediante Subnetting. 
 	- Utilización de software de captura de paquetes.
 	- Laboratorio introductorio y comandos en IOS, 
-Unidad 3:
+**Unidad 3:**
 - Arquitectura y principios de la Capa 2 del Modelo OSI:
 	- Protocolo ethernet,
 	- switching,
 	- Spanning Tree y gestión de VLANs.
 	- Laboratorio de VLANs.
-Unidad 4:
+**Unidad 4:**
 - Arquitectura de Ruteo:
 	- Concepto y funcionamiento de ARP,
 	- Ruteo IP (Tablas de enrutamiento).
@@ -29,22 +29,23 @@ Unidad 4:
 - Protocolos de ruteo:
 	- RIP, OSPF, ISIS, EIGRP y BGP y sus principales características.
 	- Laboratorio de ruteo estático y dinámico.
-Unidad 5: Transporte.
-- Funcionamiento de los protocolos de transporte.
-- UDP:
-	- Datagrama,
-	- Puertos,
-	- Control de Errores,
-	- Sockets.
-- TCP:
-	- Segmento
-	- Ventana Deslizante,
-	- Control de Flujo,
-	- HandShake,
-	- Fin de la conexión,
-	- RTT,
-	- Control de Congestión.
-Unidad 6:
+**Unidad 5:**
+- Transporte:
+	- Funcionamiento de los protocolos de transporte.
+	- UDP:
+		- Datagrama,
+		- Puertos,
+		- Control de Errores,
+		- Sockets.
+	- TCP:
+		- Segmento
+		- Ventana Deslizante,
+		- Control de Flujo,
+		- HandShake,
+		- Fin de la conexión,
+		- RTT,
+		- Control de Congestión.
+**Unidad 6:**
 - MPLS:
 	- Terminología WAN.
 	- Tipos de conexiones y protocolos.
@@ -54,7 +55,7 @@ Unidad 6:
 	- asignación y distribución.
 	- Usos.
 	- Ingeniería de tráfico y QoS.
-Unidad 7:
+**Unidad 7:**
 - Multimedia IP:
 	- ¿Qué es la Telefonía IP?
 	- Cómo funciona ?
@@ -62,18 +63,18 @@ Unidad 7:
 	- Codecs.
 	- Adecuación de una red de datos para el soporte de multimedia IP. Videovigilancia IP.
 	- Laboratorio de VoIP.
-Unidad 8:
+**Unidad 8:**
 - Seguridad sobre IP
 - IPSEC:
 	- ¿Que es una VPN?
 	- ¿Cuál es su uso ?
 - Aspectos básicos de la seguridad de las comunicaciones.
-Unidad 9:
+**Unidad 9:**
 - Tecnologías inalámbricas.
 - Aspectos físicos básicos.
 - Funcionamiento de una red Wifi, características.
 - Principales aplicaciones.
-Unidad 10:
+**Unidad 10:**
 - Aplicaciones Críticas:
 	- HTTP,
 	- FTP,
@@ -87,7 +88,7 @@ Unidad 10:
 - APIs.
 - Configuración de aplicaciones con Python.
 - Laboratorio de automatización de aplicaciones con Python.
-Unidad 11:
+**Unidad 11:**
 - Firewall y Balanceadores:
 	- Cómo proteger una red de datos.
 	- Concepto de Firewall de diferentes capas.
@@ -99,13 +100,13 @@ Unidad 11:
 	- Conceptos básicos y optimización de tráfico.
 - Seguridad en las aplicaciones y servicios.
 - Laboratorio de seguridad con firewalls.
-Unidad 12:
+**Unidad 12:**
 - SDN y Contenedores:
 	- Virtualización.
 	- Uso de contenedores con Docker.
 	- Redes virtuales.
 	- Laboratorio de contenedores.
-Unidad 13:
+**Unidad 13:**
 - IPv6:
 	- Conceptos,
 	- características y funcionalidades básicas relacionadas con IPv6.
