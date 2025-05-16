@@ -3,9 +3,10 @@
 	- [x] [[Estructura de una red]]
 		- [x] [[Red]]
 		- [x] [[Mensaje]]
-	- [ ] [[Tipos de Redes]]
-	- [ ] [[Dispositivos de red]]
+	- [x] [[Tipos de Redes]]
+	- [x] [[Dispositivos de red]]
 	- [ ] [[Protocolo]]
+		- [ ] [[Tipos de Protocolo]]
 	- [ ] [[Hardware de Redes]].
 	- [ ] Medios de comunicación
 	- [ ] Historia de Internet, Servicios y Aplicaciones,
