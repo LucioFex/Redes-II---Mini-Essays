@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Programa de la materia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Programa de la materia"
             }
           }
         ]
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programa de la materia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Programa de la materia"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes para febrero (second round).md",
+                "file": "Programa de la materia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Apuntes para febrero (second round)"
+              "title": "Outgoing links from Programa de la materia"
             }
           },
           {
@@ -127,8 +128,10 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -167,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,14 +191,16 @@
   },
   "active": "1880b7a50226952a",
   "lastOpenFiles": [
+    "Apuntes complementarios.md",
+    "Redes II - Primer Parcial.pdf",
     "Programa de la materia.md",
+    "README.md",
     "Cronograma de la materia.md",
     "Programa Redes II 2025.pdf",
     "Cronograma Redes II 2025 1.pdf",
     "Cronograma.md",
     "Cronograma Redes II 2025.pdf",
     "Pasted image 20250515203843.png",
-    "README.md",
     "Redes II.md",
     "Welcome.md",
     "create a link.md",
@@ -228,12 +233,9 @@
     "ECO - Clase 1.md",
     "Economía.pdf",
     "ECO - Clases de años pasados.md",
-    "OS - FE - Componentes compartidos de un programa entre hilos y procesos multihilos.md",
-    "BD 1 - Clase 1.md",
     "Instructivo de Guardium Discover and Classify - Recomendación de templates.docx.pdf",
     "Lab 4- VoIP.pdf",
     "Redes II - Clase 5 - Apuntes.pdf",
-    "SDI - Clase 3.pdf",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
     "Untitled.canvas",
