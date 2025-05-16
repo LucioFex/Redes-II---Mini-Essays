@@ -126,3 +126,9 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 - [ ] Mecanismos de transición de IPv4 a IPv6 existentes.
 - [ ] Estado actual de las redes de IPv6.
 - [ ] Aspectos de seguridad a considerar
+
+
+---
+# Adicional
+- [[Apuntes complementarios]]
+- [[Programa y cronograma]]
