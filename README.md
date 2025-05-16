@@ -1,7 +1,7 @@
 # Redes II - Mini Essays
 Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. Este repositorio puede descargarse y consumirse eficientemente usándolo como Vault en **Obsidian**.
 ![Screenshot_1](https://github.com/user-attachments/assets/c089bec2-378b-4e6c-9a33-ee6d77f6fe0e)
-# Temas por unidad
+## Temas por unidad
 
 **Unidad 1:**
 - [ ] Revisión: Repaso de concepto de Redes.
