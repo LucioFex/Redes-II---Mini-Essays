@@ -93,7 +93,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [x] [[HTTP]],
 	- [ ] FTP,
 	- [x] [[DHCP]],
-	- [ ] [[DNS]],
+	- [x] [[DNS]],
 	- [ ] SSH,
 	- [ ] Telnet,
 	- [ ] SNMP,

@@ -14,4 +14,5 @@ En una base de datos distribuida.
 
 **Subdominios**: Un dato no menor es que los dominios se pueden subdividir en otros dominios.
 ![[Pasted image 20250516181514.png | 300]]
-
+##### Dato: Tabla con los dominios de nivel superior (TLD)
+![[Pasted image 20250516181615.png | 400]]
