@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Programa de la materia"
             }
-          },
-          {
-            "id": "8511f17977f04579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cronograma de la materia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cronograma de la materia"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8511f17977f04579",
+  "active": "9a9e88ce6559a45c",
   "lastOpenFiles": [
-    "Programa de la materia.md",
     "Cronograma de la materia.md",
+    "Programa de la materia.md",
     "Programa Redes II 2025.pdf",
     "Cronograma Redes II 2025 1.pdf",
     "Cronograma.md",
