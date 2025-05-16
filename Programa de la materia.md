@@ -123,5 +123,3 @@
 - [ ] Mecanismos de transición de IPv4 a IPv6 existentes.
 - [ ] Estado actual de las redes de IPv6.
 - [ ] Aspectos de seguridad a considerar
-
-![[Programa Redes II 2025.pdf]]
