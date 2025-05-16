@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "2c9b1826aee38e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNS - Tipos de consultas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS - Tipos de consultas"
+            }
+          },
+          {
             "id": "4b989bc798d6521a",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "Tabla con los dominios de nivel superior de DNS (TLD)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,14 +231,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "861957a1d4c657e2",
+  "active": "2c9b1826aee38e63",
   "lastOpenFiles": [
+    "Pasted image 20250516182135.png",
+    "Pasted image 20250516182118.png",
+    "Pasted image 20250516182107.png",
+    "DNS - Tipos de consultas.md",
     "Funcionamiento de DNS.md",
     "Tabla con los dominios de nivel superior de DNS (TLD).md",
+    "README.md",
     "DNS.md",
     "Pasted image 20250516181749.png",
     "Pasted image 20250516181615.png",
-    "README.md",
     "Pasted image 20250516181514.png",
     "Pasted image 20250516181457.png",
     "Pasted image 20250516181026.png",
@@ -251,12 +270,8 @@
     "Mini_Essays/Apuntes complementarios.md",
     "Testing.md",
     "Mini_Essays/WAN.md",
-    "Mini_Essays/Tipos de Redes.md",
-    "Mini_Essays/Tipos de Protocolo.md",
     "Mini_Essays/Redes II - Primer Parcial.pdf",
     "Mini_Essays/Programa Redes II 2025.pdf",
-    "Mini_Essays/Pasted image 20250515230711.png",
-    "Mini_Essays/Pasted image 20250515230643.png",
     "Mini_Essays/Cronograma Redes II 2025.pdf",
     "Mini_Essays/Cronograma Redes II 2025 1.pdf",
     "Mini_Essays",

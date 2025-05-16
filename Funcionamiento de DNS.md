@@ -7,3 +7,4 @@ En una base de datos distribuida.
 
 ## Mayor detalle:
 - [[Tabla con los dominios de nivel superior de DNS (TLD)]]
+- [[DNS - Tipos de consultas]]
