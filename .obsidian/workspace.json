@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,12 +231,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c9b1826aee38e63",
+  "active": "9c43445b68b18051",
   "lastOpenFiles": [
+    "DNS - Tipos de consultas.md",
     "Pasted image 20250516182135.png",
     "Pasted image 20250516182118.png",
     "Pasted image 20250516182107.png",
-    "DNS - Tipos de consultas.md",
     "Funcionamiento de DNS.md",
     "Tabla con los dominios de nivel superior de DNS (TLD).md",
     "README.md",
@@ -263,7 +263,6 @@
     "TCP",
     "Descubrimiento de DHCP.md",
     "Mini_Essays/HTTP.md",
-    "Pasted image 20250516130515.png",
     "cliente-servidor.md",
     "UDP.md",
     "Mini_Essays/Dispositivos de red.md",
