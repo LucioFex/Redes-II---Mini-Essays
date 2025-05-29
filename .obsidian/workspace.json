@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "523d339994a48ad1",
+        "id": "bc11198157101722",
         "type": "tabs",
         "children": [
           {
-            "id": "861957a1d4c657e2",
+            "id": "f2d2db6193545fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +22,35 @@
             }
           },
           {
-            "id": "9c43445b68b18051",
+            "id": "f69939d40f5c3077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funcionamiento de DNS.md",
+                "file": "TCP-IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funcionamiento de DNS"
+              "title": "TCP-IP"
             }
           },
           {
-            "id": "2c9b1826aee38e63",
+            "id": "ede4c611e3d11018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS - Tipos de consultas.md",
+                "file": "Modelo TCP-IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS - Tipos de consultas"
-            }
-          },
-          {
-            "id": "4b989bc798d6521a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tabla con los dominios de nivel superior de DNS (TLD).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tabla con los dominios de nivel superior de DNS (TLD)"
+              "title": "Modelo TCP-IP"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tcp-ip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,44 +218,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c43445b68b18051",
+  "active": "ede4c611e3d11018",
   "lastOpenFiles": [
+    "Modelo TCP-IP.md",
+    "TCP-IP.md",
+    "Pasted image 20250529185446.png",
+    "README.md",
+    "Mini_Essays/TCP.md",
+    "Confirmación DHCP.md",
+    "BOOTP.md",
+    "OSI.md",
+    "Pasted image 20250529185202.png",
+    "Pasted image 20250529185151.png",
+    "Mini_Essays/Tipos de Protocolo.md",
+    "Hardware de Redes.md",
+    "Mini_Essays/HTTP.md",
+    "Mini_Essays/Ethernet.md",
+    "Mini_Essays/IP.md",
+    "Mini_Essays/Protocolo.md",
+    "Mini_Essays/Dispositivos de red.md",
+    "Mini_Essays/Red.md",
+    "Mini_Essays/Internet.md",
+    "Mini_Essays/WAN.md",
+    "Mini_Essays/LAN.md",
+    "Mini_Essays/Tipos de Redes.md",
+    "Mini_Essays/Estructura de una red.md",
+    "Tabla con los dominios de nivel superior de DNS (TLD).md",
+    "Funcionamiento de DNS.md",
     "DNS - Tipos de consultas.md",
+    "Pasted image 20250518230335.png",
+    "Pasted image 20250518230313.png",
     "Pasted image 20250516182135.png",
     "Pasted image 20250516182118.png",
     "Pasted image 20250516182107.png",
-    "Funcionamiento de DNS.md",
-    "Tabla con los dominios de nivel superior de DNS (TLD).md",
-    "README.md",
     "DNS.md",
     "Pasted image 20250516181749.png",
     "Pasted image 20250516181615.png",
-    "Pasted image 20250516181514.png",
-    "Pasted image 20250516181457.png",
-    "Pasted image 20250516181026.png",
     "DHCP.md",
     "Formato del mensaje DHCP.md",
-    "Pasted image 20250516180812.png",
-    "Funcionamiento de DHCP.md",
-    "Pasted image 20250516133840.png",
-    "Oferta de DHCP.md",
-    "Máscara de la subred.md",
-    "Dirección IP.md",
-    "Dirección MAC.md",
-    "Confirmación DHCP.md",
-    "Solicitud DHCP.md",
-    "BOOTP.md",
-    "Mini_Essays/IP.md",
-    "TCP/IP.md",
     "TCP",
-    "Descubrimiento de DHCP.md",
-    "Mini_Essays/HTTP.md",
-    "cliente-servidor.md",
-    "UDP.md",
-    "Mini_Essays/Dispositivos de red.md",
-    "Mini_Essays/Apuntes complementarios.md",
-    "Testing.md",
-    "Mini_Essays/WAN.md",
     "Mini_Essays/Redes II - Primer Parcial.pdf",
     "Mini_Essays/Programa Redes II 2025.pdf",
     "Mini_Essays/Cronograma Redes II 2025.pdf",

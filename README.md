@@ -13,7 +13,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [x] [[Dispositivos de red]]
 	- [x] [[Protocolo]]
 		- [x] [[Tipos de Protocolo]]
-	- [ ] Hardware de Redes.
+	- [ ] [[Hardware de Redes]]
 	- [ ] Medios de comunicación
 	- [ ] Historia de Internet, Servicios y Aplicaciones,
 	- [ ] Modelo de Capas,
@@ -29,6 +29,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [ ] Laboratorio introductorio y comandos en IOS, 
 **Unidad 3:**
 - [ ] Arquitectura y principios de la Capa 2 del Modelo OSI:
+	- [ ] [[OSI]]
 	- [ ] Protocolo ethernet,
 	- [ ] Switching,
 	- [ ] Spanning Tree
@@ -50,7 +51,8 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 		- [ ] Puertos,
 		- [ ] Control de Errores,
 		- [ ] Sockets.
-	- [ ] TCP:
+	- [ ] [[TCP]]:
+		- [ ] [[TCP-IP]]
 		- [ ] Segmento
 		- [ ] Ventana Deslizante,
 		- [ ] Control de Flujo,
