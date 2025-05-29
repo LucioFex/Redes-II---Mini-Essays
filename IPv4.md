@@ -5,6 +5,7 @@ Se usa para enviar información entre los dispositivos.
 
 #### [[Estructura de una dirección IPv4]]
 #### [[Tipos de direcciones de una red IPv4]]
+#### [[Rangos de direcciones IPv4]]
 
 #### Diferencias respecto a [[IPv6]]
 ![[Pasted image 20250529190716.png]]

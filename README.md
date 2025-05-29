@@ -13,23 +13,19 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [[Dispositivos de red]]
 	- [[Protocolo]]
 		- [[Tipos de Protocolo]]
-	- [[Hardware de Redes]]
-	- Medios de comunicación
-	- Historia de Internet, Servicios y Aplicaciones,
-	- Modelo de Capas,
+	- [[Modelos de Capas]]
 - Estratificación.
 - **Unidad 2:**
-- [[Wireshark]]
 - [[IP]]:
 	- [[IPv4]]
+		- [[Rangos de direcciones IPv4]]
 	- [[IPv6]]
-	- Funcionamiento de una red
 	- [[Dirección IP]]
+	- [[Cálculo de direcciones]]
+	- [[Tipos de comunicación]]
 	- Datagrama
 	- Subredes
-	- Prácticas de diseño y creación de redes mediante Subnetting
-	- Utilización de software de captura de paquetes
-	- Laboratorio introductorio y comandos en IOS
+- [[Wireshark]]
 - **Unidad 3:**
 - Arquitectura y principios de la Capa 2 del Modelo OSI:
 	- [[OSI]]

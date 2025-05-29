@@ -1,0 +1,1 @@
+Comunicación normal de host a host. Los paquetes unicast utilizan la dirección host del dispositivo de destino como la dirección de destino y pueden enrutarse a través de una internetwork.
