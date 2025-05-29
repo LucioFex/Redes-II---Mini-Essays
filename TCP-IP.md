@@ -3,3 +3,7 @@ Es un conjunto de protocolos de comunicación que permiten la transmisión de da
 Es el protocolo estándar utilizado para conectar dispositivos en redes y es fundamental para la comunicación digital. 
 
 Todo este conjunto de reglas para la comunicación de redes con este conjunto de protocolos se realiza en la práctica a partir del [[Modelo TCP-IP]]:
+
+### Arquitectura:
+![[Pasted image 20250529190019.png]]
+

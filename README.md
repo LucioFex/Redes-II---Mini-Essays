@@ -19,57 +19,62 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [ ] Modelo de Capas,
 - [ ] Estratificación.
 **Unidad 2:**
+- [ ] [[Wireshark]]
 - [x] [[IP]]:
+	- [ ] [[IPv4]]
+	- [ ] [[IPv6]]
 	- [ ] Funcionamiento de una red,
-	- [ ] Direcciones IP,
+	- [ ] [[Dirección IP]],
 	- [ ] Datagrama,
 	- [ ] Subredes.
-	- [ ] Prácticas de diseño y creación de redes mediante Subnetting. 
-	- [ ] Utilización de software de captura de paquetes.
-	- [ ] Laboratorio introductorio y comandos en IOS, 
+	- [ ] Prácticas de diseño y creación de redes mediante Subnetting
+	- [ ] Utilización de software de captura de paquetes
+	- [ ] Laboratorio introductorio y comandos en IOS
 **Unidad 3:**
 - [ ] Arquitectura y principios de la Capa 2 del Modelo OSI:
 	- [ ] [[OSI]]
-	- [ ] Protocolo ethernet,
-	- [ ] Switching,
+	- [ ] Protocolo ethernet
+	- [ ] Switching
 	- [ ] Spanning Tree
-	- [ ] Gestión de VLANs.
-	- [ ] Laboratorio de VLANs.
+	- [ ] Gestión de VLANs
+	- [ ] Laboratorio de VLANs
 **Unidad 4:**
 - [ ] Arquitectura de Ruteo:
-	- [ ] Concepto y funcionamiento de ARP,
-	- [ ] Ruteo IP (Tablas de enrutamiento).
+	- [ ] Concepto y funcionamiento de ARP
+	- [ ] [[Enrutamiento de paquetes IP]]
+	- [ ] Ruteo IP (Tablas de enrutamiento)
 	- [ ] Ruteo dinámico y estático.
 - [ ] Protocolos de ruteo:
-	- [ ] RIP, OSPF, ISIS, EIGRP y BGP y sus principales características.
-	- [ ] Laboratorio de ruteo estático y dinámico.
+	- [ ] RIP, OSPF, ISIS, EIGRP y BGP y sus principales características
+	- [ ] Laboratorio de ruteo estático y dinámico
 **Unidad 5:**
 - [ ] Transporte:
-	- [ ] Funcionamiento de los protocolos de transporte.
+	- [ ] Funcionamiento de los protocolos de transporte
 	- [ ] UDP:
-		- [ ] Datagrama,
-		- [ ] Puertos,
-		- [ ] Control de Errores,
-		- [ ] Sockets.
-	- [ ] [[TCP]]:
-		- [ ] [[TCP-IP]]
+		- [ ] Datagrama
+		- [ ] Puertos
+		- [ ] Control de Errores
+		- [ ] Sockets
+	- [x] [[TCP]]:
+		- [x] [[TCP-IP]]
+			- [x] [[Modelo TCP-IP]]
 		- [ ] Segmento
-		- [ ] Ventana Deslizante,
-		- [ ] Control de Flujo,
-		- [ ] HandShake,
-		- [ ] Fin de la conexión,
-		- [ ] RTT,
-		- [ ] Control de Congestión.
+		- [ ] Ventana Deslizante
+		- [ ] Control de Flujo
+		- [ ] HandShake
+		- [ ] Fin de la conexión
+		- [ ] RTT
+		- [ ] Control de Congestión
 **Unidad 6:**
 - [ ] MPLS:
-	- [ ] Terminología WAN.
-	- [ ] Tipos de conexiones y protocolos.
-	- [ ] Introducción a MPLS.
+	- [ ] Terminología WAN
+	- [ ] Tipos de conexiones y protocolos
+	- [ ] Introducción a MPLS
 - [ ] Conceptos básicos:
-	- [ ] Labels,
-	- [ ] asignación y distribución.
-	- [ ] Usos.
-	- [ ] Ingeniería de tráfico y QoS.
+	- [ ] Labels
+	- [ ] asignación y distribución
+	- [ ] Usos
+	- [ ] Ingeniería de tráfico y QoS
 **Unidad 7:**
 - [ ] Multimedia IP:
 	- [ ] ¿Qué es la Telefonía IP?
