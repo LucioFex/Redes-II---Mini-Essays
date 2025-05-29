@@ -21,12 +21,12 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 **Unidad 2:**
 - [ ] [[Wireshark]]
 - [x] [[IP]]:
-	- [ ] [[IPv4]]
-	- [ ] [[IPv6]]
-	- [ ] Funcionamiento de una red,
-	- [ ] [[Dirección IP]],
-	- [ ] Datagrama,
-	- [ ] Subredes.
+	- [x] [[IPv4]]
+	- [x] [[IPv6]]
+	- [ ] Funcionamiento de una red
+	- [ ] [[Dirección IP]]
+	- [ ] Datagrama
+	- [ ] Subredes
 	- [ ] Prácticas de diseño y creación de redes mediante Subnetting
 	- [ ] Utilización de software de captura de paquetes
 	- [ ] Laboratorio introductorio y comandos en IOS

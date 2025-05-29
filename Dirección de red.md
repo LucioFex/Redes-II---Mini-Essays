@@ -1,0 +1,2 @@
+Es como el **nombre del barrio**. No se le asigna a nadie en particular, solo sirve para identificar a todo el grupo de computadoras que están conectadas entre sí.
+![[Pasted image 20250529195235.png | 300]]

@@ -1,0 +1,2 @@
+Es como gritar en voz alta en el barrio para que **todos los vecinos te escuchen**. Se usa para enviar un mensaje a **todos los dispositivos** dentro de esa red.
+![[Pasted image 20250529195245.png | 300]]
