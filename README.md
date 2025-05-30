@@ -27,7 +27,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 		- [[Broadcast]]
 		- [[Multicast]]
 	- Datagrama
-	- Subredes
+	- [[Subredes]]
 - [[Wireshark]]
 **Unidad 3:**
 - Arquitectura y principios de la Capa 2 del Modelo OSI:
