@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4c93a1c2e65489b5",
+        "id": "dcf8baec42933086",
         "type": "tabs",
         "children": [
           {
-            "id": "b7f5b8ee4f93fcf2",
+            "id": "8fc49d3140d16716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPv4.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4"
+              "title": "README"
+            }
+          },
+          {
+            "id": "e4277b35c1612645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planificación del direccionamiento de la red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planificación del direccionamiento de la red"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,17 +204,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7f5b8ee4f93fcf2",
+  "active": "e4277b35c1612645",
   "lastOpenFiles": [
+    "Pasted image 20250529211010.png",
+    "README.md",
     "IPv4.md",
     "IPv6.md",
     "Diferencias entre IPv4 e IPv6.md",
     "Direcciones IPv4 especiales.md",
-    "Planificación del direccionamiento de la RED.md",
+    "Planificación del direccionamiento de la red.md",
     "Tipos de comunicación.md",
     "Dirección de host - Rangos de direcciones.md",
     "Rangos de direcciones IPv4.md",
-    "README.md",
     "Broadcast.md",
     "Multicast.md",
     "Uniscast.md",
@@ -218,7 +234,6 @@
     "Cálculo de direcciones.md",
     "Pasted image 20250529201327.png",
     "UDP.md",
-    "Descubrimiento de DHCP.md",
     "Pasted image 20250529195305.png",
     "Pasted image 20250529195254.png",
     "Pasted image 20250529195245.png",

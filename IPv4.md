@@ -7,5 +7,5 @@ Se usa para enviar información entre los dispositivos.
 - #### [[Tipos de direcciones de una red IPv4]]
 - #### [[Rangos de direcciones IPv4]]
 - #### [[Direcciones IPv4 especiales]]
-- #### [[Planificación del direccionamiento de la RED]]
+- #### [[Planificación del direccionamiento de la red]]
 - #### [[Diferencias entre IPv4 e IPv6]]

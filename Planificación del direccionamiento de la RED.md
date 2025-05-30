@@ -9,3 +9,7 @@ La asignación de direcciones IPv4 dentro de las redes debería ser planificada 
 #### Direccionamiento Público/Privado
 - **Público**: Asignado a los equipos que son accedidos mediante internet, especialmente servidores.
 - **Privado**: Porción aplicada y subdividida dentro de la empresa 
+
+---
+
+![[Pasted image 20250529211010.png]]
