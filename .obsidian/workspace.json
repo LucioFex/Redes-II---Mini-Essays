@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff694c7e88f5a12e",
+        "id": "4c93a1c2e65489b5",
         "type": "tabs",
         "children": [
           {
-            "id": "2defd8993086025d",
+            "id": "b7f5b8ee4f93fcf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dirección de host.md",
+                "file": "IPv4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dirección de host"
+              "title": "IPv4"
             }
           }
         ]
@@ -189,18 +189,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2defd8993086025d",
+  "active": "b7f5b8ee4f93fcf2",
   "lastOpenFiles": [
+    "IPv4.md",
+    "IPv6.md",
+    "Diferencias entre IPv4 e IPv6.md",
+    "Direcciones IPv4 especiales.md",
+    "Planificación del direccionamiento de la RED.md",
+    "Tipos de comunicación.md",
     "Dirección de host - Rangos de direcciones.md",
     "Rangos de direcciones IPv4.md",
-    "Dirección de host.md",
     "README.md",
-    "IPv4.md",
-    "Pasted image 20250529203939.png",
-    "Tipos de comunicación.md",
+    "Broadcast.md",
     "Multicast.md",
     "Uniscast.md",
-    "Broadcast.md",
+    "Dirección IP.md",
+    "Mini_Essays/Ethernet.md",
+    "Dirección de host.md",
+    "Pasted image 20250529203939.png",
     "Modelos de Capas.md",
     "OSI.md",
     "Modelo TCP-IP.md",
@@ -213,12 +219,6 @@
     "Pasted image 20250529201327.png",
     "UDP.md",
     "Descubrimiento de DHCP.md",
-    "host.md",
-    "Estructura de una dirección IPv4.md",
-    "Dirección de red.md",
-    "Tipos de direcciones de una red IPv4.md",
-    "Prefijos en direcciones de red IPv4.md",
-    "Dirección de broadcast.md",
     "Pasted image 20250529195305.png",
     "Pasted image 20250529195254.png",
     "Pasted image 20250529195245.png",

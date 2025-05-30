@@ -15,7 +15,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 		- [[Tipos de Protocolo]]
 	- [[Modelos de Capas]]
 - Estratificación.
-- **Unidad 2:**
+**Unidad 2:**
 - [[IP]]:
 	- [[IPv4]]
 		- [[Rangos de direcciones IPv4]]
@@ -23,18 +23,21 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- [[Dirección IP]]
 	- [[Cálculo de direcciones]]
 	- [[Tipos de comunicación]]
+		- [[Uniscast]]
+		- [[Broadcast]]
+		- [[Multicast]]
 	- Datagrama
 	- Subredes
 - [[Wireshark]]
-- **Unidad 3:**
+**Unidad 3:**
 - Arquitectura y principios de la Capa 2 del Modelo OSI:
 	- [[OSI]]
-	- Protocolo ethernet
+	- [[Ethernet]]
 	- Switching
 	- Spanning Tree
 	- Gestión de VLANs
 	- Laboratorio de VLANs
-- **Unidad 4:**
+**Unidad 4:**
 - Arquitectura de Ruteo:
 	- Concepto y funcionamiento de ARP
 	- [[Enrutamiento de paquetes IP]]
@@ -43,7 +46,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 - Protocolos de ruteo:
 	- RIP, OSPF, ISIS, EIGRP y BGP y sus principales características
 	- Laboratorio de ruteo estático y dinámico
-- **Unidad 5:**
+**Unidad 5:**
 - Transporte:
 	- Funcionamiento de los protocolos de transporte
 	- UDP:
@@ -61,17 +64,17 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 		- Fin de la conexión
 		- RTT
 		- Control de Congestión
-- **Unidad 6:**
+**Unidad 6:**
 - MPLS:
 	- Terminología WAN
 	- Tipos de conexiones y protocolos
 	- Introducción a MPLS
 - Conceptos básicos:
 	- Labels
-	- asignación y distribución
+	- Asignación y distribución
 	- Usos
 	- Ingeniería de tráfico y QoS
-- **Unidad 7:**
+**Unidad 7:**
 - Multimedia IP:
 	- ¿Qué es la Telefonía IP?
 	- Cómo funciona ?
@@ -79,19 +82,19 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- Codecs.
 	- Adecuación de una red de datos para el soporte de multimedia IP. Videovigilancia IP.
 	- Laboratorio de VoIP.
-- **Unidad 8:**
+**Unidad 8:**
 - Seguridad sobre IP
 - IPSEC:
 	- ¿Que es una VPN?
 	- ¿Cuál es su uso ?
 - Aspectos básicos de la seguridad de las comunicaciones.
-- **Unidad 9:**
+**Unidad 9:**
 - Tecnologías inalámbricas.
 - Aspectos físicos básicos.
 - Funcionamiento de una red Wifi,
 - características.
 - Principales aplicaciones.
-- **Unidad 10:**
+**Unidad 10:**
 - Aplicaciones Críticas:
 	- [[HTTP]],
 	- FTP,
@@ -105,7 +108,7 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 - APIs.
 - Configuración de aplicaciones con Python.
 - Laboratorio de automatización de aplicaciones con Python.
-- **Unidad 11:**
+**Unidad 11:**
 - Firewall y Balanceadores:
 	- Cómo proteger una red de datos.
 	- Concepto de Firewall de diferentes capas.
@@ -117,13 +120,13 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- Conceptos básicos y optimización de tráfico.
 - Seguridad en las aplicaciones y servicios.
 - Laboratorio de seguridad con firewalls.
-- **Unidad 12:**
+**Unidad 12:**
 - SDN y Contenedores:
 	- Virtualización.
 	- Uso de contenedores con Docker.
 	- Redes virtuales.
 	- Laboratorio de contenedores.
-- **Unidad 13:**
+**Unidad 13:**
 - IPv6:
 	- Conceptos,
 	- características y funcionalidades básicas relacionadas con IPv6.
