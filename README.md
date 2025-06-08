@@ -84,8 +84,8 @@ Apuntes de la materia "Redes II" de la carrera de Ingeniería en Informática. E
 	- Laboratorio de VoIP.
 **Unidad 8:**
 - Seguridad sobre IP
-- IPSEC:
-	- ¿Que es una VPN?
+- [[IPSEC]]:
+	- [[VPN]]
 	- ¿Cuál es su uso ?
 - Aspectos básicos de la seguridad de las comunicaciones.
 **Unidad 9:**
